@@ -1,0 +1,32 @@
+#footer{
+    border-top: 4px solid teal;
+
+}
+
+#service .card:hover{
+
+    background-color:teal;
+    color: white;
+    
+}
+
+#footer a{
+
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+#collapselogin button{
+    float: left;
+}
+
+#collapsesignup button{
+    margin-top: 20px;
+    float: right;
+}
+
+#credits{
+    background-color: teal;
+    color: white;
+}
